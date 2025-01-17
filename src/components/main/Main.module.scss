@@ -1,0 +1,30 @@
+Main{
+    display: flex;
+    height: 90vh;
+    justify-content: space-around;
+    align-items: center;
+     img{
+        height: 80vh;
+     }
+}
+
+
+.ContainerTextoFeliz2025{
+    h1{
+        font-weight: 700;
+        font-size: 50px;
+    }
+    h2{
+        
+        font-weight: 300;
+        font-size: 36px;
+    }
+    display: flex;
+   justify-content: space-evenly;
+    height: 50vh;
+    width: 35vw;
+    text-align: right;
+    flex-direction: column;
+    color: #3E3970;
+  font-size: 24px;
+}

@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 14vh;
+    padding-left: 2vw;
+    nav{
+        width: 40%;
+         ul{
+            display: flex;
+            justify-content: space-evenly;
+
+             a{
+                color: #3E3970;
+                font-size: 32px;
+                font-family: "Zen Maru Gothic";
+                font-weight: 600;
+             }
+         }
+    }
+}
